@@ -2,8 +2,9 @@ body{
     height: 95vh;
     width: 95;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
-    color: rbg(44, 139, 44);
+    background-color: white;
+    color: rbg(52, 165, 52);
 }
